@@ -4,7 +4,7 @@
 
 ![GitHub](https://img.shields.io/badge/Alba3k-Casino-brightgreen?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/Alba3k/Casino?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Alba3k/Casino?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Alba3k/Casino?style=for-the-badge)
 
 <kbd><img src="/images/casino_logo.jpg" /></kbd>
 

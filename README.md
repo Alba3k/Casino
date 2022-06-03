@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/Alba3k/Casino?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alba3k/Casino?style=for-the-badge)
 
-## simple_version :classical_building:
+## simple_version :kick_scooter:
 
 Версия simple. Написана без классов, функций, реализован следующий функционал:
 - количество побед, процент побед от общего количества.
@@ -15,7 +15,7 @@
 
 ***
 
-## sqlite_version
+## sqlite_version :rocket:
 
 Версия на основании БД SQLite3, с использованием в качестве основной БД:
 - авторизация пользователя.

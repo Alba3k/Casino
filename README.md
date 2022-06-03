@@ -6,6 +6,13 @@
 ![GitHub](https://img.shields.io/github/license/Alba3k/Casino?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alba3k/Casino?style=for-the-badge)
 
+![Игровой автомат CASINO](/images/casino_logo.jpg)
+
+<kbd>
+  <img src="/images/casino_logo.jpg" />
+</kbd>
+
+
 ## simple_version :kick_scooter:
 
 Версия simple. Написана без классов, функций, реализован следующий функционал:
@@ -22,7 +29,6 @@
 - формирование отчетов в формате pdf, csv.
 - функционал в процессе разработки.
 
-![Игровой автомат CASINO](/images/casino_logo.jpg)
 
 
 
